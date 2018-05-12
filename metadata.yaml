@@ -1,0 +1,39 @@
+_repo: Reports-of-the-Committee-on-the-Conduct-of-the-WarFort-Pillow-Massacre.-Returned-Prisoners._41787
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41787-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Wade, B. F. (Benjamin Franklin)
+    alias: Wade, Benjamin Franklin
+    birthdate: 1800
+    deathdate: 1878
+    gutenberg_agent_id: '41365'
+    url: http://www.gutenberg.org/2009/agents/41365
+  - agent_name: Gooch, Daniel W. (Daniel Wheelwright)
+    alias: Gooch, D. W. (Daniel Wheelwright)
+    birthdate: 1820
+    deathdate: 1891
+    gutenberg_agent_id: '41366'
+    url: http://www.gutenberg.org/2009/agents/41366
+  - agent_name: United States. Congress. Joint Committee on the Conduct of the War
+    alias: United States. Congress. Committee on the Conduct of the War
+    gutenberg_agent_id: '41364'
+    url: http://www.gutenberg.org/2009/agents/41364
+description: ''
+gutenberg_issued: '2013-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fort Pillow, Battle of, Tenn., 1864'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+title: "Reports of the Committee on the Conduct of the War\r\nFort Pillow Massacre.\
+  \ Returned Prisoners."
+url: http://www.gutenberg.org/ebooks/41787
